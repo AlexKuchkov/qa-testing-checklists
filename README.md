@@ -41,7 +41,7 @@ Each checklist is structured for:
 
 ## 📎 Available Formats (optional in repo)
 - [ ] PDF (print-friendly)
-      Also will be great for :
+     </br> Also will be great for :
 - [ ] Excel/Google Sheets (with status columns)
 - [ ] Notion template (upon request)
 
