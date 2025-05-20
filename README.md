@@ -53,12 +53,6 @@ Just fork the repo, add your file, and open a pull request.
 
 ---
 
-## 📄 License
-
-This repository is released under the [MIT License](LICENSE).
-
----
-
 ## 💬 Questions?
 
 Feel free to [open an issue](https://github.com/AlexKuchkov/Checklists/issues) or contact via email if you need help adapting the checklists to your workflow.
