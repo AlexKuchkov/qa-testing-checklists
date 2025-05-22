@@ -1,10 +1,10 @@
-# 🧪 QA Checklists
+# QA Checklists
 
 A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, WordPress projects, including frontend, backend, and integrations. Ideal for QA engineers, developers, and agencies managing WordPress websites, WooCommerce stores, and Elementor-based pages.
 
 ---
 
-## 📋 Included Checklists
+## Included Checklists
 
 | Checklist Area              | Description |
 |----------------------------|-------------|
@@ -19,7 +19,7 @@ A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, Wo
 
 ---
 
-## 🛠️ Usage
+## Usage
 
 You can use these checklists in any of the following ways:
 - As a **QA reference** during testing cycles
@@ -29,7 +29,7 @@ You can use these checklists in any of the following ways:
 
 ---
 
-## 📦 Format
+## Format
 
 Each checklist is structured for:
 - Manual QA use (step-by-step)
@@ -39,19 +39,19 @@ Each checklist is structured for:
 
 ---
 
-## 📎 Available Formats
+## Available Formats
 -  PDF (print-friendly)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Have a checklist or QA process you’d like to share? Contributions are welcome!  
 Just fork the repo, add your file, and open a pull request.
 
 ---
 
-## 💬 Questions?
+## Questions?
 
 Feel free to [open an issue](https://github.com/AlexKuchkov/Checklists/issues) or contact via email if you need help adapting the checklists to your workflow.
 
