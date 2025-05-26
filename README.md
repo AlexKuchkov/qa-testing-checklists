@@ -49,3 +49,5 @@ Just fork the repo, add your file, and open a pull request.
 
 Feel free to [open an issue](https://github.com/AlexKuchkov/Checklists/issues) or contact via email if you need help adapting the checklists to your workflow.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main?tab=MIT-1-ov-file)
+
