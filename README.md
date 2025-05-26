@@ -10,6 +10,7 @@ A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, Wo
 - [Available Formats](#available-formats)
 - [Contributing](#contributing)
 - [Questions?](#questions)
+- [Checklists](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main/checklists)
 
 
 
