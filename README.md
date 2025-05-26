@@ -3,13 +3,13 @@
 A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, WordPress projects, including frontend, backend, and integrations. Ideal for QA engineers, developers, and agencies managing WordPress websites, WooCommerce stores, and Elementor-based pages.
 
 - <strong>Table of Contents</strong>
-- [Included Checklists](#included-checklists)
-- [Usage](#usage)
-- [Format](#format)
-- [Available Formats](#available-formats)
-- [Contributing](#contributing)
-- [Questions?](#questions)
-- [Checklists](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main/checklists)
+  - [Included Checklists](#included-checklists)
+  - [Usage](#usage)
+  - [Format](#format)
+  - [Available Formats](#available-formats)
+  - [Contributing](#contributing)
+  - [Questions?](#questions)
+  - [Checklists](https://github.com/AlexKuchkov/qa-testing-checklists/tree/main/checklists)
 
 
 
