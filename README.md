@@ -18,14 +18,14 @@ A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, Wo
 
 | Checklist Area              | Description |
 |----------------------------|-------------|
-| ✅ HTML/CSS to WordPress    | Visual and functional QA when converting HTML to WordPress |
-| ✅ WordPress Dashboard      | Core admin panel functionality and role-based access testing |
-| ✅ WooCommerce              | Store functionality, checkout flow, payments, and product testing |
-| ✅ Elementor                | Page builder elements, responsiveness, and widget behavior |
-| ✅ Contact Forms            | Submission, validation, spam protection, and notification testing |
-| ✅ CAPTCHA                  | Manual validation of anti-spam features (e.g., Google reCAPTCHA) |
-| ✅ Mailchimp Integration    | Signup forms, API triggers, and audience updates |
-| ✅ Maintenance QA           | Monthly/quarterly site health, backups, performance, and security |
+|  <strong>HTML/CSS to WordPress</strong>    | Visual and functional QA when converting HTML to WordPress |
+|  <strong>WordPress Dashboard</strong>       | Core admin panel functionality and role-based access testing |
+|  <strong>WooCommerce</strong>               | Store functionality, checkout flow, payments, and product testing |
+|  <strong>Elementor</strong>                 | Page builder elements, responsiveness, and widget behavior |
+|  <strong>Contact Forms</strong>             | Submission, validation, spam protection, and notification testing |
+|  <strong>CAPTCHA</strong>                  | Manual validation of anti-spam features (e.g., Google reCAPTCHA) |
+|  <strong>Mailchimp Integration</strong>     | Signup forms, API triggers, and audience updates |
+|  <strong>Maintenance QA</strong>            | Monthly/quarterly site health, backups, performance, and security |
 
 
 ## Usage
