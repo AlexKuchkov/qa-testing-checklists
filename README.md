@@ -4,12 +4,12 @@ A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, Wo
 
 ## Table of Contents
 
-- [Included Checklists](#-included-checklists)
-- [Usage](#-usage)
-- [Format](#-format)
-- [Available Formats](#-available-formats)
-- [Contributing](#-contributing)
-- [Questions?](#-questions)
+- [Included Checklists](#included-checklists)
+- [Usage](#usage)
+- [Format](#format)
+- [Available Formats](#available-formats)
+- [Contributing](#contributing)
+- [Questions?](#questions)
 
 
 
