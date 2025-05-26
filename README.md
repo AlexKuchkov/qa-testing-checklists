@@ -2,6 +2,16 @@
 
 A comprehensive collection of **manual QA checklists** tailored for HTML/CSS, WordPress projects, including frontend, backend, and integrations. Ideal for QA engineers, developers, and agencies managing WordPress websites, WooCommerce stores, and Elementor-based pages.
 
+## Table of Contents
+
+- [Included Checklists](#-included-checklists)
+- [Usage](#-usage)
+- [Format](#-format)
+- [Available Formats](#-available-formats)
+- [Contributing](#-contributing)
+- [Questions?](#-questions)
+
+
 
 ## Included Checklists
 
