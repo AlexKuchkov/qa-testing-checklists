@@ -33,7 +33,7 @@ You can use these checklists in any of the following ways:
 - As a **QA reference** during testing cycles
 - As a **project QA baseline** for agencies
 - To **train new QA engineers** on WordPress testing standards
-- As part of **monthly maintenance SOPs**
+- As part of **monthly maintenance**
 
 
 ## Format
